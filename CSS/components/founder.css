@@ -1,0 +1,8 @@
+.founder {
+	padding: 30px;
+	display: flex;
+	align-items: center;
+	margin: 20px 0px;
+	flex-wrap: wrap;
+	flex-basis: 250px;
+}
